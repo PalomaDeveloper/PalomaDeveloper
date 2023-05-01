@@ -2,6 +2,7 @@ name: Snake
 on:
   schedule:
     - cron: "* */12 * * *"
+  workflow_dispatch:
 jobs: 
   build:
     name: "SnakeGif"
