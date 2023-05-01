@@ -1,3 +1,4 @@
+<h1>PalomaDev</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://palomadeveloper.github.io/PalomaDeveloper/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://palomadeveloper.github.io/PalomaDeveloper/github-snake.svg" />
